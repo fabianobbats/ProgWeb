@@ -1,0 +1,9 @@
+p{
+  border: 10px solid black;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
