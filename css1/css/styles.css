@@ -1,0 +1,7 @@
+p {
+    border: 10px solid black;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 150px;
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 150px;
+}
