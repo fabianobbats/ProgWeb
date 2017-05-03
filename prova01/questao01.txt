@@ -1,0 +1,4 @@
+linha 04 os comentarios devem ser na for <! -->
+linha 08 e 09 as atribuiçoes em css devem ser feitas atraves de :
+linha 18 a tag strong esta fechada incorretamente
+e falta o meta charset para definir o conjunto de caracteres a ser reconhecido
