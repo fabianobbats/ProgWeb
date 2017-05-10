@@ -1,0 +1,14 @@
+table, th, td {
+  border: thin solid black;
+  text-align: center;
+}
+
+table {
+  float: left;
+  margin-top: 20px;
+  margin-left: 20px
+}
+
+body {
+  margin: 0px 0px 0px 0px;
+}
