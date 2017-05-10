@@ -1,0 +1,28 @@
+body{
+  background-color: cyan;
+  background-image: url("../img/roma.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 1050px 1250px;
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+  text-align: center;
+}
+div {
+  position: relative;
+  top: 80px;
+  left: 280px;
+  border: 15px solid SaddleBrown;
+  border-radius: 25px;
+  width: 275px;
+  height: 250px;
+  padding: 0px 15px 0px 15px;
+  background-color: white;
+  opacity: 0.8;
+}
